@@ -1,6 +1,8 @@
 package com.example.OneToMany.model;
 
+
 import javax.persistence.*;
+
 
 @Entity
 @Table(name = "courses")
@@ -48,3 +50,5 @@ public class Courses {
                 '}';
     }
 }
+
+//adding new line
